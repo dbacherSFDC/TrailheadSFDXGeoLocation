@@ -1,0 +1,7 @@
+{
+    "orgName": "dbacher Company",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
